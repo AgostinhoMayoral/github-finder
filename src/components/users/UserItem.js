@@ -9,7 +9,8 @@ import { Link } from 'react-router-dom'
             <div className='card text-center'>
                 <img 
                     src={avatar_url} 
-                    alt='' className='round-img' 
+                    alt='' 
+                    className='round-img' 
                     style={{width:'60px'}} 
                 />
                 <h3>{login}</h3>
